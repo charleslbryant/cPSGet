@@ -26,3 +26,4 @@ This issue has been filed with microsoft here:
 https://connect.microsoft.com/PowerShell/feedback/details/922914/wmf-5-may-preview-powershellget-nuget-exe-wont-launch-when-running-as-system
 
 You can fix this issue by replacing the nuget.exe file at %winddir%\System32\config\systemprofile\AppData\Local\Microsoft\Windows\PowerShell\PowerShellGet\nuget.exe with a working version of nuget.exe.
+

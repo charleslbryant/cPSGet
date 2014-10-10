@@ -6,3 +6,4 @@ class PSHOrg_cPSGet : OMI_BaseResource
 	[Required, ValueMap{"Absent","Present"}, Values{"Absent","Present"}] String Ensure;
 };
 
+
